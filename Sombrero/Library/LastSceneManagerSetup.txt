@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SombreroGame.unity
+  isLoaded: 1
+  isActive: 1
