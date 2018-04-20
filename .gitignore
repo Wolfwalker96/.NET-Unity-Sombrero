@@ -219,6 +219,6 @@ pip-log.txt
 
 */.vs/*
 
-AXEL_*
-PAUL_*
-GUIL_*
+*AXEL_*
+*PAUL_*
+*GUIL_*
