@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour {
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("SombreroGame", LoadSceneMode.Additive);
+        SceneManager.LoadScene("SombreroGame", LoadSceneMode.Single);
     }
 
     public void QuitGame()
