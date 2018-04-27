@@ -215,7 +215,8 @@ pip-log.txt
 
 #OWN
 
-*Library/*
+*/Library/*
+*/Temp/*
 
 */.vs/*
 
